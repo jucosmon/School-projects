@@ -1,0 +1,180 @@
+Recorded: Wed Jan 04 15:35:52 2023
+
+					DENTAL CLINIC RECORDS
+
+
+					    PAST RECORDS
+
+1. Alphabetical Order
+=================================================================================================================
+		NAME		ID	AGE	CONTACT#		DATE		SERVICE		PAID
+=================================================================================================================
+
+	Aguilar, Sanaki M.	300	26	09195438282		05/19/22	DC		P 1000.00
+
+	Aguilar, Zaydel P.	002	22	09356423272		06/22/22	CU		P 800.00
+
+	Doblas, Lindsay B.	005	20	09511532208		01/04/20	TW		P 9000.00
+
+	Galolo, Christy M.	003	47	09356638193		04/11/19	DF		P 1000.00
+
+	Galolo, Rosefin B.	100	60	09511532208		07/21/21	TE		P 1200.00
+
+	Mahumas, Cyril F.	500	21	09356423542		02/25/18	RC		P 6000.00
+
+	Mahumas, Janna F.	001	19	09356423542		05/19/22	DC		P 1000.00
+
+	Rodrigez, Robin T.	400	28	09356638193		09/30/21	DF		P 1000.00
+
+	Udtohan, Fatima E.	200	18	09356423272		03/03/22	CU		P 800.00
+
+	Udtohan, Fatima O.	004	36	09195438282		07/26/20	DC		P 1000.00
+=================================================================================================================
+
+2. ID ASCENDING ORDER
+=================================================================================================================
+	ID	NAME			AGE	CONTACT#		DATE		SERVICE		PAID
+=================================================================================================================
+
+	001	Mahumas, Janna F.	19	09356423542		05/19/22	DC		P 1000.00
+
+	002	Aguilar, Zaydel P.	22	09356423272		06/22/22	CU		P 800.00
+
+	003	Galolo, Christy M.	47	09356638193		04/11/19	DF		P 1000.00
+
+	004	Udtohan, Fatima O.	36	09195438282		07/26/20	DC		P 1000.00
+
+	005	Doblas, Lindsay B.	20	09511532208		01/04/20	TW		P 9000.00
+
+	100	Galolo, Rosefin B.	60	09511532208		07/21/21	TE		P 1200.00
+
+	200	Udtohan, Fatima E.	18	09356423272		03/03/22	CU		P 800.00
+
+	300	Aguilar, Sanaki M.	26	09195438282		05/19/22	DC		P 1000.00
+
+	400	Rodrigez, Robin T.	28	09356638193		09/30/21	DF		P 1000.00
+
+	500	Mahumas, Cyril F.	21	09356423542		02/25/18	RC		P 6000.00
+=================================================================================================================
+
+3. Date from oldest to latest
+=================================================================================================================
+	DATE		ID	NAME			AGE	CONTACT#	SERVICE		PAID
+=================================================================================================================
+
+	04/11/19	003	Galolo, Christy M.	47	09356638193	DF		P 1000.00
+
+	02/25/18	500	Mahumas, Cyril F.	21	09356423542	RC		P 6000.00
+
+	01/04/20	005	Doblas, Lindsay B.	20	09511532208	TW		P 9000.00
+
+	07/26/20	004	Udtohan, Fatima O.	36	09195438282	DC		P 1000.00
+
+	07/21/21	100	Galolo, Rosefin B.	60	09511532208	TE		P 1200.00
+
+	09/30/21	400	Rodrigez, Robin T.	28	09356638193	DF		P 1000.00
+
+	03/03/22	200	Udtohan, Fatima E.	18	09356423272	CU		P 800.00
+
+	05/19/22	001	Mahumas, Janna F.	19	09356423542	DC		P 1000.00
+
+	05/19/22	300	Aguilar, Sanaki M.	26	09195438282	DC		P 1000.00
+
+	06/22/22	002	Aguilar, Zaydel P.	22	09356423272	CU		P 800.00
+=================================================================================================================
+
+4. By Service
+=================================================================================================================
+	SERVICE		ID	NAME			AGE	CONTACT#		DATE		PAID
+=================================================================================================================
+
+	CU		200	Udtohan, Fatima E.	18	09356423272		03/03/22	P 800.00
+
+	CU		002	Aguilar, Zaydel P.	22	09356423272		06/22/22	P 800.00
+
+	DC		004	Udtohan, Fatima O.	36	09195438282		07/26/20	P 1000.00
+
+	DC		001	Mahumas, Janna F.	19	09356423542		05/19/22	P 1000.00
+
+	DC		300	Aguilar, Sanaki M.	26	09195438282		05/19/22	P 1000.00
+
+	DF		003	Galolo, Christy M.	47	09356638193		04/11/19	P 1000.00
+
+	DF		400	Rodrigez, Robin T.	28	09356638193		09/30/21	P 1000.00
+
+	RC		500	Mahumas, Cyril F.	21	09356423542		02/25/18	P 6000.00
+
+	TE		100	Galolo, Rosefin B.	60	09511532208		07/21/21	P 1200.00
+
+	TW		005	Doblas, Lindsay B.	20	09511532208		01/04/20	P 9000.00
+=================================================================================================================
+
+
+
+
+
+
+					    PENDING APPOINTMENT RECORD
+=====================================================================================================================================================
+
+MONDAY				TUESDAY				WEDNESDAY			THURSDAY			FRIDAY
+=====================================================================================================================================================
+
+1) Patient ID: XXX		1) Patient ID: 100		1)Patient ID: XXX		1) Patient ID: XXX		1) Patient ID: XXX
+First name: Xxxxxx		First name: Rosefin		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx
+Middle Initial: X.		Middle Initial: B.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.
+Last name: Xxxxxxxxx		Last name: Galolo		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx
+0 yrs old			60 yrs old			0 yrs old			0 yrs old			0 yrs old
+XXXXXXXXXXX			09511532208			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX
+Service: XX			Service: RC			Service: XX			Service: XX			Service: XX
+00/00/00			01/03/23			00/00/00			00/00/00			00/00/00
+Cost: P 0.00			Cost: P 6000.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00
+=====================================================================================================================================================
+
+2) Patient ID: XXX		2) Patient ID: XXX		2)Patient ID: XXX		2) Patient ID: XXX		2) Patient ID: XXX
+First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx
+Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.
+Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx
+0 yrs old			0 yrs old			0 yrs old			0 yrs old			0 yrs old
+XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX
+Service: XX			Service: XX			Service: XX			Service: XX			Service: XX
+00/00/00			00/00/00			00/00/00			00/00/00			00/00/00
+Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00
+=====================================================================================================================================================
+
+3) Patient ID: XXX		3) Patient ID: XXX		3)Patient ID: XXX		3) Patient ID: XXX		3) Patient ID: XXX
+First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx
+Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.
+Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx
+0 yrs old			0 yrs old			0 yrs old			0 yrs old			0 yrs old
+XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX
+Service: XX			Service: XX			Service: XX			Service: XX			Service: XX
+00/00/00			00/00/00			00/00/00			00/00/00			00/00/00
+Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00
+=====================================================================================================================================================
+
+4) Patient ID: XXX		4) Patient ID: XXX		4)Patient ID: XXX		4) Patient ID: XXX		4) Patient ID: XXX
+First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx
+Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.
+Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx
+0 yrs old			0 yrs old			0 yrs old			0 yrs old			0 yrs old
+XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX
+Service: XX			Service: XX			Service: XX			Service: XX			Service: XX
+00/00/00			00/00/00			00/00/00			00/00/00			00/00/00
+Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00
+=====================================================================================================================================================
+
+5) Patient ID: XXX		5) Patient ID: XXX		5)Patient ID: XXX		5) Patient ID: XXX		5) Patient ID: XXX
+First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx		First name: Xxxxxx
+Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.		Middle Initial: X.
+Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx		Last name: Xxxxxxxxx
+0 yrs old			0 yrs old			0 yrs old			0 yrs old			0 yrs old
+XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX			XXXXXXXXXXX
+Service: XX			Service: XX			Service: XX			Service: XX			Service: XX
+00/00/00			00/00/00			00/00/00			00/00/00			00/00/00
+Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00			Cost: P 0.00
+=====================================================================================================================================================
+
+
+Weekly Pofit[Jan 02 - 06 2023] = P 6000.00
+
