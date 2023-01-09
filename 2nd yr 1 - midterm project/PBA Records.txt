@@ -1,0 +1,516 @@
+PBA GAME TICKETING RECORDS		Wed Dec 07 13:46:42 2022
+Total Income: 21490.00
+-----------------------------------------------------------------
+	Section 1: PREMIUM-BOX
+	
+		Seat #1: Sana Bading
+		- Code: 101
+
+		Seat #2: Seyoung
+		- Code: 102
+
+		Seat #3: God Jihyo
+		- Code: 103
+
+		Seat #4: Minari
+		- Code: 104
+
+		Seat #5: Jeongyoonie
+		- Code: 105
+
+		Seat #6: 
+		- Code: 0
+
+		Seat #7: 
+		- Code: 0
+
+		Seat #8: 
+		- Code: 0
+
+		Seat #9: 
+		- Code: 0
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 2: PATRON-A
+	
+		Seat #1: Chewy
+		- Code: 201
+
+		Seat #2: Momoring
+		- Code: 202
+
+		Seat #3: Tofu
+		- Code: 203
+
+		Seat #4: Nabong
+		- Code: 204
+
+		Seat #5: Zaki Taji
+		- Code: 205
+
+		Seat #6: Kathryn Bernardo
+		- Code: 206
+
+		Seat #7: Calum Scott
+		- Code: 207
+
+		Seat #8: Brent Manalo
+		- Code: 208
+
+		Seat #9: Daniel Padilla
+		- Code: 209
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 3: PATRON-B
+	
+		Seat #1: Saitama
+		- Code: 301
+
+		Seat #2: Inosuke Hashibira
+		- Code: 302
+
+		Seat #3: Nezuko Kamado
+		- Code: 303
+
+		Seat #4: Denji
+		- Code: 304
+
+		Seat #5: Uzumaki Naruto
+		- Code: 305
+
+		Seat #6: Zayn Malik
+		- Code: 306
+
+		Seat #7: Lady Gaga
+		- Code: 307
+
+		Seat #8: Harry Styles
+		- Code: 308
+
+		Seat #9: Louis Thompson
+		- Code: 309
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 4: PATRON-C
+	
+		Seat #1: Rem
+		- Code: 401
+
+		Seat #2: Saitama
+		- Code: 402
+
+		Seat #3: Yama
+		- Code: 403
+
+		Seat #4: Yoasobi
+		- Code: 404
+
+		Seat #5: Itachi Uchiha
+		- Code: 405
+
+		Seat #6: Niall Horan
+		- Code: 406
+
+		Seat #7: Ed Sheraan
+		- Code: 407
+
+		Seat #8: Olivia Rodrigo
+		- Code: 408
+
+		Seat #9: Bebe Rexha
+		- Code: 409
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 5: LBOX-VIP
+	
+		Seat #1: Zenitsu Agatsuma
+		- Code: 501
+
+		Seat #2: Zoro
+		- Code: 502
+
+		Seat #3: Luffy
+		- Code: 503
+
+		Seat #4: Nanami Kento
+		- Code: 504
+
+		Seat #5: Yuuta Okkotsu
+		- Code: 505
+
+		Seat #6: Hinata
+		- Code: 506
+
+		Seat #7: Taylor Swift
+		- Code: 507
+
+		Seat #8: Lebron James
+		- Code: 508
+
+		Seat #9: Kobe
+		- Code: 509
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 6: LBOX-REGULAR
+	
+		Seat #1: Eren Yeager
+		- Code: 601
+
+		Seat #2: Sasha Braus
+		- Code: 602
+
+		Seat #3: Yumeko Jabami
+		- Code: 603
+
+		Seat #4: Sano Manjirou
+		- Code: 604
+
+		Seat #5: Izumi Miyamura
+		- Code: 605
+
+		Seat #6: Junjun
+		- Code: 606
+
+		Seat #7: July falla
+		- Code: 607
+
+		Seat #8: Hackdog
+		- Code: 608
+
+		Seat #9: Jack n Jill
+		- Code: 609
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 7: UPPER-BOX
+	
+		Seat #1: Kaneki Ken
+		- Code: 701
+
+		Seat #2: Tanjiro Kamado
+		- Code: 702
+
+		Seat #3: Inumaki Toge
+		- Code: 703
+
+		Seat #4: Gojou Satoru
+		- Code: 704
+
+		Seat #5: Mai Sakurajima
+		- Code: 705
+
+		Seat #6: Paluma Rodrigez
+		- Code: 706
+
+		Seat #7: Matthew Cordelle
+		- Code: 707
+
+		Seat #8: Remi Gio
+		- Code: 708
+
+		Seat #9: Tiquera
+		- Code: 709
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 8: GEN-ADM
+	
+		Seat #1: Violet Evergarden
+		- Code: 801
+
+		Seat #2: Sakuta Azusagawa
+		- Code: 802
+
+		Seat #3: Itadori Yuuji
+		- Code: 803
+
+		Seat #4: Yor Forger
+		- Code: 804
+
+		Seat #5: Nobra Kugisaki
+		- Code: 805
+
+		Seat #6: Raphtalia
+		- Code: 806
+
+		Seat #7: Maki Zenin
+		- Code: 807
+
+		Seat #8: Konan
+		- Code: 808
+
+		Seat #9: Mikasa Ackerman
+		- Code: 809
+
+		Seat #10: 
+		- Code: 0
+PBA GAME TICKETING RECORDS		Mon Jan 09 20:33:41 2023
+Total Income: 22155.00
+-----------------------------------------------------------------
+	Section 1: PREMIUM-BOX
+	
+		Seat #1: Sana Bading
+		- Code: 101
+
+		Seat #2: Seyoung
+		- Code: 102
+
+		Seat #3: God Jihyo
+		- Code: 103
+
+		Seat #4: Minari
+		- Code: 104
+
+		Seat #5: June_Udtohan
+		- Code: 151
+
+		Seat #6: Jeongyoonie
+		- Code: 105
+
+		Seat #7: 
+		- Code: 0
+
+		Seat #8: 
+		- Code: 0
+
+		Seat #9: 
+		- Code: 0
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 2: PATRON-A
+	
+		Seat #1: Chewy
+		- Code: 201
+
+		Seat #2: Momoring
+		- Code: 202
+
+		Seat #3: Tofu
+		- Code: 203
+
+		Seat #4: Nabong
+		- Code: 204
+
+		Seat #5: Zaki Taji
+		- Code: 205
+
+		Seat #6: Kathryn Bernardo
+		- Code: 206
+
+		Seat #7: Calum Scott
+		- Code: 207
+
+		Seat #8: Brent Manalo
+		- Code: 208
+
+		Seat #9: Daniel Padilla
+		- Code: 209
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 3: PATRON-B
+	
+		Seat #1: Saitama
+		- Code: 301
+
+		Seat #2: Inosuke Hashibira
+		- Code: 302
+
+		Seat #3: Nezuko Kamado
+		- Code: 303
+
+		Seat #4: Denji
+		- Code: 304
+
+		Seat #5: Uzumaki Naruto
+		- Code: 305
+
+		Seat #6: Zayn Malik
+		- Code: 306
+
+		Seat #7: Lady Gaga
+		- Code: 307
+
+		Seat #8: Harry Styles
+		- Code: 308
+
+		Seat #9: Louis Thompson
+		- Code: 309
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 4: PATRON-C
+	
+		Seat #1: Rem
+		- Code: 401
+
+		Seat #2: Saitama
+		- Code: 402
+
+		Seat #3: Yama
+		- Code: 403
+
+		Seat #4: Yoasobi
+		- Code: 404
+
+		Seat #5: Itachi Uchiha
+		- Code: 405
+
+		Seat #6: Niall Horan
+		- Code: 406
+
+		Seat #7: Ed Sheraan
+		- Code: 407
+
+		Seat #8: Olivia Rodrigo
+		- Code: 408
+
+		Seat #9: Bebe Rexha
+		- Code: 409
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 5: LBOX-VIP
+	
+		Seat #1: Zenitsu Agatsuma
+		- Code: 501
+
+		Seat #2: Zoro
+		- Code: 502
+
+		Seat #3: Luffy
+		- Code: 503
+
+		Seat #4: Nanami Kento
+		- Code: 504
+
+		Seat #5: Yuuta Okkotsu
+		- Code: 505
+
+		Seat #6: Hinata
+		- Code: 506
+
+		Seat #7: Taylor Swift
+		- Code: 507
+
+		Seat #8: Lebron James
+		- Code: 508
+
+		Seat #9: Kobe
+		- Code: 509
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 6: LBOX-REGULAR
+	
+		Seat #1: Eren Yeager
+		- Code: 601
+
+		Seat #2: Sasha Braus
+		- Code: 602
+
+		Seat #3: Yumeko Jabami
+		- Code: 603
+
+		Seat #4: Sano Manjirou
+		- Code: 604
+
+		Seat #5: Izumi Miyamura
+		- Code: 605
+
+		Seat #6: Junjun
+		- Code: 606
+
+		Seat #7: July falla
+		- Code: 607
+
+		Seat #8: Hackdog
+		- Code: 608
+
+		Seat #9: Jack n Jill
+		- Code: 609
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 7: UPPER-BOX
+	
+		Seat #1: Kaneki Ken
+		- Code: 701
+
+		Seat #2: Tanjiro Kamado
+		- Code: 702
+
+		Seat #3: Inumaki Toge
+		- Code: 703
+
+		Seat #4: Gojou Satoru
+		- Code: 704
+
+		Seat #5: Mai Sakurajima
+		- Code: 705
+
+		Seat #6: Paluma Rodrigez
+		- Code: 706
+
+		Seat #7: Matthew Cordelle
+		- Code: 707
+
+		Seat #8: Remi Gio
+		- Code: 708
+
+		Seat #9: Tiquera
+		- Code: 709
+
+		Seat #10: 
+		- Code: 0
+-----------------------------------------------------------------
+	Section 8: GEN-ADM
+	
+		Seat #1: Violet Evergarden
+		- Code: 801
+
+		Seat #2: Sakuta Azusagawa
+		- Code: 802
+
+		Seat #3: Itadori Yuuji
+		- Code: 803
+
+		Seat #4: Yor Forger
+		- Code: 804
+
+		Seat #5: Nobra Kugisaki
+		- Code: 805
+
+		Seat #6: Raphtalia
+		- Code: 806
+
+		Seat #7: Maki Zenin
+		- Code: 807
+
+		Seat #8: Konan
+		- Code: 808
+
+		Seat #9: Mikasa Ackerman
+		- Code: 809
+
+		Seat #10: 
+		- Code: 0
